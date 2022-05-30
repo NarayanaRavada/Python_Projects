@@ -149,5 +149,4 @@ def Play():
         print(f"{Red}({Yellow}-=<{Red}| {Cyan}{Bold}Tic Tac Toe {Red}|{Yellow}>=-{Red}){Reset}\n")
         draw_board(board)
 
-
 Play()
